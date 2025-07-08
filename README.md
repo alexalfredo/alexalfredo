@@ -1,6 +1,6 @@
 # 👋 Olá  
 
-### Desenvolvedor Full Stack | Python & Web  
+<!-- ### Desenvolvedor Full Stack | Python & Web  
 
 ## 🚀 Habilidades Técnicas  
 **Backend:**  
@@ -20,7 +20,7 @@
 ✅ Resolução criativa de problemas  
 ✅ Código limpo e documentado  
 ✅ Aprendizado contínuo  
-✅ Comunicação clara  
+✅ Comunicação clara   -->
 
 ## 🌟 Filosofia  
 *"Cada bug é uma lição disfarçada, e cada linha de código é um passo para inovar!"*  
